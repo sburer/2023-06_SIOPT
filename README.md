@@ -1,1 +1,1 @@
-# 2023-06_SIOPT
+Talks delivered at the SIAM Conference on Optimization on June 2, 2023 in Seattle.
